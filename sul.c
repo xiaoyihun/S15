@@ -4,6 +4,8 @@ int main()
 {
 	printf("hello sul\n");
 	printf("弟弟郑景辉\n");
-;	return 0;
+	printf("声明");
+	
+	return 0;
 	
 }
