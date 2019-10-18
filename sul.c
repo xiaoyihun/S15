@@ -3,7 +3,7 @@
 int main()
 {
 	printf("hello sul\n");
-	
-	return 0;
+	printf("弟弟郑景辉\n");
+;	return 0;
 	
 }
